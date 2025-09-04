@@ -1,4 +1,4 @@
-# Builder Kit: Onchain Starter Template
+# Web3 Starter Kit
 
 A modern, production-ready starter template for building decentralized applications with sensible defaults.
 
