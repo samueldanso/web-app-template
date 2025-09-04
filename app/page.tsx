@@ -64,13 +64,13 @@ export default function Home() {
 
 			<div className="flex flex-wrap items-center justify-center gap-4">
 				<Button asChild>
-					<Link href="https://github.com/samuedanso/web3-app-template">
+					<Link href="https://github.com/samueldanso/web3-app-template">
 						<ArrowTopRightIcon className="mr-2 h-4 w-4" />
 						View Source
 					</Link>
 				</Button>
 				<Button variant="outline" asChild>
-					<Link href="https://github.com/samuedanso/web3-app-template">
+					<Link href="https://github.com/samueldanso/web3-app-template">
 						<ArrowTopRightIcon className="mr-2 h-4 w-4" />
 						Necta Docs
 					</Link>
