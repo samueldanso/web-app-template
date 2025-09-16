@@ -72,7 +72,7 @@ export default function Home() {
 				<Button variant="outline" asChild>
 					<Link href="https://github.com/samueldanso/web3-app-template">
 						<ArrowTopRightIcon className="mr-2 h-4 w-4" />
-						Necta Docs
+						 Docs
 					</Link>
 				</Button>
 			</div>
