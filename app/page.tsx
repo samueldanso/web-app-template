@@ -66,13 +66,13 @@ export default function Home() {
 				<Button asChild>
 					<Link href="https://github.com/samueldanso/web3-app-template">
 						<ArrowTopRightIcon className="mr-2 h-4 w-4" />
-						View Source
+						Source
 					</Link>
 				</Button>
 				<Button variant="outline" asChild>
 					<Link href="https://github.com/samueldanso/web3-app-template">
 						<ArrowTopRightIcon className="mr-2 h-4 w-4" />
-						 Docs
+						Docs
 					</Link>
 				</Button>
 			</div>
